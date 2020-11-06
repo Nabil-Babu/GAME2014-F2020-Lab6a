@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using UnityEditor;
 using UnityEngine;
-
 public class PlayerController : MonoBehaviour
 {
     [Header("Boundary Check")]
